@@ -238,6 +238,5 @@ def videotest(filename):
     cv2.destroyAllWindows()
     return PATH
 
-
 if __name__ == "__main__":
     app.run(debug = True)
